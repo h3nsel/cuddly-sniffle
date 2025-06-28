@@ -1,0 +1,89 @@
+*{box-sizing: border-box;
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+
+.title{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 700;
+}
+
+.wrapper {
+    border: 0px solid;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.facebook {
+    width: 350px;
+    height: 450px;
+    border: solid 4px;
+    margin-left: 360px;
+}
+
+.whatsapp {
+    width: 350px;
+    height: 450px;
+    border: solid 4px;
+    margin-left: 70px;
+}
+
+.youtube {
+    width: 350px;
+    height: 450px;
+    border: solid 4px;
+    margin-left: 70px;
+}
+
+.FBicon {
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.WSicon {
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 120px;   
+}
+
+.YTicon {
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+p {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-weight: 400;
+}
+
+.botton {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 60px;
+    width: 300px;
+    background-color: black;
+    border-radius: 100px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.botton {
+    color: white;
+    text-decoration: none;
+}
